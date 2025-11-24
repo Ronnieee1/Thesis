@@ -1,4 +1,0 @@
-url,scheme,subdomain,domain,suffix,path,query,params,netloc,length,num_subdirs,has_ip,num_digits,num_letters,num_special,entropy
-https://example.com/path/page?x=1,https,,example,com,/path/page,x=1,,example.com,33,2,False,1,24,8,3.945464952495108
-http://192.168.0.1/login,http,,192.168.0.1,,/login,,,192.168.0.1,24,1,True,8,9,7,3.9072682296173897
-https://sub.domain.co.uk/a/b/c,https,sub,domain,co.uk,/a/b/c,,,sub.domain.co.uk,30,3,False,0,21,9,3.8947396630551756
